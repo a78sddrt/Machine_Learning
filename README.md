@@ -14,3 +14,12 @@ Now learning: DQN---> try to play some little game!
       &nbsp;Project 1: puzzle
    
       &nbsp;Project 2: rock_scissors_paper
+
+      &nbsp;Project 3: CartPole_v1
+   
+
+
+https://github.com/a78sddrt/Machine_Learning/assets/88551093/e0920721-a9ff-46a8-8a33-485753d067a3
+
+
+   
