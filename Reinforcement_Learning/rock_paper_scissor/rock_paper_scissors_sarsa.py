@@ -13,7 +13,7 @@ def get_action(s,Q,pi,epsilon):
         return np.nanargmax(Q[s,:])
 def Sarsa(s, s_next, a, a_next,r):
     gamma=0.9
-    Q[s,a]=Q[s,a]-0.1*(r+gamma*Q[s_next,a_next]-Q[s,a])
+    Q[s,a]=Q[s,a]+0.1*(r+gamma*Q[s_next,a_next]-Q[s,a])
     return Q
 
 
